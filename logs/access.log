@@ -1,0 +1,9 @@
+127.0.0.1 - - [31/May/2023:11:22:42 +0530] "GET / HTTP/1.1" 200 46
+127.0.0.1 - - [31/May/2023:11:22:45 +0530] "GET /favicon.ico HTTP/1.1" 404 196
+127.0.0.1 - - [31/May/2023:11:23:42 +0530] "-" 408 -
+::1 - - [31/May/2023:21:35:32 +0530] "GET /isrproject/index.html HTTP/1.1" 200 492
+::1 - - [31/May/2023:21:35:32 +0530] "GET /isrproject/resources/ol/ol.css HTTP/1.1" 200 6217
+::1 - - [31/May/2023:21:35:32 +0530] "GET /isrproject/main.css HTTP/1.1" 200 88
+::1 - - [31/May/2023:21:35:32 +0530] "GET /isrproject/main.js HTTP/1.1" 200 320
+::1 - - [31/May/2023:21:35:32 +0530] "GET /isrproject/resources/ol/ol.js HTTP/1.1" 200 748708
+::1 - - [31/May/2023:21:35:34 +0530] "GET /favicon.ico HTTP/1.1" 404 196
